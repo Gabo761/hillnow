@@ -22,5 +22,3 @@ i also love to play basketball🏀 and i know how to play different instrument�
 - Java ♨️
 
 ---
-
-## 💻 My Projects 
