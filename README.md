@@ -1,5 +1,9 @@
 # hillnow
 Hello everyone!
 ----
-I am Amiel Gabriel C. Reyes 
-Y'all can call me gabo
+<p align="center">
+  <img src=""/>
+</p>
+<p align="center">
+Hello! I'm Gabo ... 😎
+  </p>
