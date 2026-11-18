@@ -15,3 +15,7 @@ i also love to play basketball🏀 and i know how to play different instrument�
 ### Area of Interest:
 - Playing online games🎮
 - Learning something new
+---
+
+## Programming Languages
+- Java ♨️
