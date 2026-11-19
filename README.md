@@ -23,3 +23,5 @@ i also love to play basketball🏀 and i know how to play different instrument�
 
 ----
 
+## ⚡ Fun Fact About Me:
+🖥️I used to change the color of the command promt into **green** to make me look like a Hacker.😅
